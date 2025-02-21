@@ -43,3 +43,12 @@ def is_prime(n):
 
 print(f"Is 7 prime? {is_prime(7)}")  # Output: True
 print(f"Is 8 prime? {is_prime(8)}")  # Output: False
+
+
+print(type(2))
+print(type(2.0))
+print(type(False))
+print(type(None))
+
+
+
